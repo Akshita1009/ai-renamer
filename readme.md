@@ -2,9 +2,6 @@
 
 A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
 
-[![npm](https://img.shields.io/npm/v/ai-renamer.svg?style=flat-square)](https://www.npmjs.com/package/ai-renamer)
-[![license](https://img.shields.io/npm/l/ai-renamer?style=flat-square)](https://github.com/ozgrozer/ai-renamer/blob/main/license)
-
 ## Desktop
 
 For the desktop app, visit [airenamer.app](https://airenamer.app)
@@ -125,19 +122,11 @@ snakeCase: two_words
 trainCase: Two-Words
 ```
 
-## Contribution
-
-Feel free to contribute. Open a new [issue](https://github.com/AnanditaNagpal/ai-renamer/issues), or make a [pull request](https://github.com/AnanditaNagpal/ai-renamer/pulls).
-
-## License
-
-[GPL-3.0](https://github.com/ozgrozer/ai-renamer/blob/main/license)
 
 ## About the Maintainer
 
 This project is currently maintained by Akshita Mary John. Akshita is a dedicated developer and product owner with over 3 years of experience, specializing in Node.js, JavaScript, and full-stack development. She is passionate about building robust and user-friendly applications, and actively drives the development and improvement of this project.
 
 Feel free to connect or reach out:
--   GitHub: [AnanditaNagpal](https://github.com/AnanditaNagpal)
 -   LinkedIn: [Akshita Mary John](https://www.linkedin.com/in/akshita-mary-john-35542a12a/)
 -   Email: a.john1009@gmail.com
